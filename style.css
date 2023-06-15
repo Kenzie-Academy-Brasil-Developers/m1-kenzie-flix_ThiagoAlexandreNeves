@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.user {
+    color: gray;
+}
