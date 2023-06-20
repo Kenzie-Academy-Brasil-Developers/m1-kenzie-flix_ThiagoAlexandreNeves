@@ -10,4 +10,41 @@ h1{
 
 .user {
     color: gray;
-}
+}body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+body * span {
+    margin: 0;
+    padding: 0;}
+.logo {
+    text-align: center;}
+h1{
+    color: white;
+    text-align: center;}
+.container { 
+    display: flex;
+    justify-content: center;}
+.img {
+    text-align: center;
+    height: 15%;
+    width: 10%;
+    margin: 20px;}
+.img:hover {
+    border: 1px solid white;}
+.user {
+    color: gray;
+    margin-left: 100px;}
+.p {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid white;
+    color: white;
+    height: 20px;
+    width: 200px;
+    margin-left: 570px;}
+.p:hover {
+    
+    color: black;
+    background-color: white;}
